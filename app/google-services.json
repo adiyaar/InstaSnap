@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584273698813",
+    "firebase_url": "https://instasnap-926d2.firebaseio.com",
+    "project_id": "instasnap-926d2",
+    "storage_bucket": "instasnap-926d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584273698813:android:8a6847238465436eefc394",
+        "android_client_info": {
+          "package_name": "com.example.instasnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584273698813-86k61rgq53fgip0bqf31v10us3f800tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqyaSRF9CifneIWv7Yq_wEf_ABORhzxjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584273698813-86k61rgq53fgip0bqf31v10us3f800tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
